@@ -1,1 +1,1 @@
-# movieSearch
+# simple movie search app example
